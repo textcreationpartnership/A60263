@@ -1,0 +1,612 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Symbiōsis, or, The intimate converse of Pope and Devil attended by a cardinal and buffoon to which is annexed the pourtrait of each, with a brief explication thereof / by James Salgado ...</title>
+            <author>Salgado, James, fl. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60263</idno>
+            <idno type="STC">Wing S383</idno>
+            <idno type="STC">ESTC R16645</idno>
+            <idno type="EEBO-CITATION">12394304</idno>
+            <idno type="OCLC">ocm 12394304</idno>
+            <idno type="VID">61083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 225:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Symbiōsis, or, The intimate converse of Pope and Devil attended by a cardinal and buffoon to which is annexed the pourtrait of each, with a brief explication thereof / by James Salgado ...</title>
+                  <author>Salgado, James, fl. 1680.</author>
+               </titleStmt>
+               <extent>[12], 2-47, [1], 39, [1] p, [1] folded leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Snowden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parallel English and Latin texts.</note>
+                  <note>First word of title transliterated from Greek.</note>
+                  <note>Added t.p., with Latin title: Symbiosis papæ &amp; diaboli, ut et cardinalis et morionis.</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Marginal notes.</note>
+                  <note>Imperfect: "An appendix, wherein the hellish machinations of the Pope are further searched into, on the occasions of the ... death of Sir Edmun-dbury Godfrey" is lacking in filmed copy.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:61083:1" rendition="simple:additions"/>
+                  <p>ΣΥΜΒΊΩΣΙΣ, OR THE Intimate Converſe OF POPE and DEVIL Attended by A Cardinal AND BUFFOON.</p>
+                  <p>To which Is annexed the Pourtrait of each, with a brief Ex<g ref="char:EOLhyphen"/>plication thereof.</p>
+                  <p>BY <hi>JAMES SALGADO</hi> Spaniard and Converted Prieſt.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>Thomas Snowden.</hi> 1681.</p>
+               </div>
+               <div type="papal_caricature">
+                  <pb facs="tcp:61083:2"/>
+                  <p>
+                     <figure>
+                        <figDesc>mock seal</figDesc>
+                        <head>TENET FACIEM DIABOLI EC<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>LESIA PERVERSA</head>
+                        <lg>
+                           <l>
+                              <hi>The Fool and Cardnal joyn; and well they may.</hi>
+                           </l>
+                           <l>
+                              <hi>Both make the World their ſcene and all a play.</hi>
+                           </l>
+                           <l>
+                              <hi>No ſhew i' th' Fair without a lay Buffoon.</hi>
+                           </l>
+                           <l>
+                              <hi>So without Cardinal no Pope at Rome.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>mock seal</figDesc>
+                        <head>SAPIENTES STULTI ALIQUANDO</head>
+                        <lg>
+                           <l>
+                              <hi>With what ſtrict bonds t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap> Pope and Devill are ti'd!</hi>
+                           </l>
+                           <l>
+                              <hi>Who 'tween them both the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                                    <desc>•••</desc>
+                                 </gap>le o'th' World divide.</hi>
+                           </l>
+                           <l>
+                              <hi>They to each other mut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>all kiſses lend,</hi>
+                           </l>
+                           <l>
+                              <hi>And in them Vote, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ay the world ſhall bend.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:61083:3"/>
+                  <pb facs="tcp:61083:4"/>
+                  <head>To his moſt Illuſtrious Highneſs Prince RUPERT Duke of CUMBERLAND, one of His Majeſties moſt Honoura<g ref="char:EOLhyphen"/>ble Privy Council, and Kt. of the Noble Order of the Garter.</head>
+                  <head type="sub">The Author wiſheth a Succeſs pro<g ref="char:EOLhyphen"/>portionable to his high Valour.</head>
+                  <p>IT is a manifeſt impeach (moſt glorious Prince) both to your Highneſs's Authority and Candid<g ref="char:EOLhyphen"/>neſs; to have your Illuſtrious name (a name celebrated above the Stars) prefixed to ſo mean and inconſide<g ref="char:EOLhyphen"/>rable a Pamphlet. My preſumption had been more excuſable, had it been to ſome weighty Volume, the product of long pains and moſt ac<g ref="char:EOLhyphen"/>curate politure. But ſince volumi<g ref="char:EOLhyphen"/>nous Opera's are not for the genius of this preſent age, who being more taken with ſuccinctneſs, will not reckon brevity amongſt my crimes, but having long ſince renounced all prolixity, may value this <hi>Compen<g ref="char:EOLhyphen"/>dium</hi>
+                     <pb facs="tcp:61083:5"/>as a <hi>Homer</hi> ſhrunk up into a Nut-ſhell. The more delicate Stomacks of theſe times loath that fleſh (as right<g ref="char:EOLhyphen"/>ly they may) that being often haſh'd and ſtew'd, retains neither taſt nor vertue in itſelf, but has loſt it in ſuch abundance of ſwaſhy broth. And if your Highneſs be delighted with ſuch a brevity; I humbly preſume, that this ſmall Tract (may I uſe the vanity to ſay) this ſmall body conſiſting of its due Members and Arteries will not be expoſed as a new born Orphan, altogether deſti<g ref="char:EOLhyphen"/>tute of your moſt noble Patronage.</p>
+                  <p>I have endeavoured to expoſe to publick view the Pope of <hi>Rome,</hi> that true Apocalyptick Beaſt, in his own proper and genuine Colours. I have deſervedly linked him with the grand Devil, that ſworn Enemy of Mankind, and univerſal Parent of all Diſorder and Confuſion: Not in the leaſt doubting, but your High<g ref="char:EOLhyphen"/>neſs's deep, and moſt acute Judg<g ref="char:EOLhyphen"/>ment, will quickly perceive the
+<pb facs="tcp:61083:6"/>reaſons of that Conjunction. And if I do not evince (tho briefly) the de<g ref="char:EOLhyphen"/>ſcription fully and in every part to anſwer the Frontiſpiece, I will in<g ref="char:EOLhyphen"/>genuouſly confeſs my ſelf to be carried ſheer from my Deſign; or muſt loudly confeſs, that the truth of Hi<g ref="char:EOLhyphen"/>ſtory is very queſtionable.</p>
+                  <p>But to the truth of theſe Premi<g ref="char:EOLhyphen"/>ſes, 'tis an unparallel'd rudeneſs to doubt of your Highneſs's Aſſent, who has been throughly inſtructed in the verity of the Propoſition, as well by thoſe manifold dangers your Prince<g ref="char:EOLhyphen"/>ly Perſon underwent, as the ſad and miſerable calamities that befell your Royal Father and his Family, from the Helliſh Malice and Tyranny of that curſed Romiſh Crew; beſides what you have added by your long and conſtant experience of their un<g ref="char:EOLhyphen"/>wearied purſuit after Royal and in<g ref="char:EOLhyphen"/>nocent blood.</p>
+                  <p>So that nothing remains for me now, but to caſt theſe unworthy Pa<g ref="char:EOLhyphen"/>pers at your Highneſs's feet for Pa<g ref="char:EOLhyphen"/>tronage
+<pb facs="tcp:61083:7"/>and Protection: earneſtly praying in the loweſt poſture of an humble ſuppliant, that it would pleaſe your Highneſs, according to your wonted Gallantry to give them a kind and curteous receiption. And that it would further pleaſe you to beam down on your unworthy Sup<g ref="char:EOLhyphen"/>plaint, the warm bleſſings of your Princely Favour, as may beſt ſuit with your innate and known gene<g ref="char:EOLhyphen"/>roſity, and his Condition.</p>
+                  <p>This if your Highneſs pleaſe to vouchſafe, it will vaſtly add to thoſe Obligations, whereby I am bound to be for ever Yours, intirely to admire and ſerve.</p>
+                  <p>Long and happy may you live (moſt Illuſtrious Prince) a Comfort to your ſelf, the Church, and State; as it ſhall be the daily and hearty Prayers of,</p>
+                  <closer>
+                     <salute>Great Sir,</salute>
+                     <signed>your Highneſs's moſt devoted humble Servant, JAMES SALGADO, A Spaniſh Prieſt Converted.</signed>
+                  </closer>
+                  <pb facs="tcp:61083:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div type="book">
+                  <pb n="2" facs="tcp:61083:9"/>
+                  <head>SYMBIOSY, OR The true and genuine Picture of the Pope.</head>
+                  <p>MOſt Curte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us Reader, of what make ſoever thou art, thou art deſired to lay aſide thy graver matters, whilſt thou vieweſt here the Pope in the Devil, and the Devil in the Pope Theſe Arcadians, like old friends of the ſame Trade and Country, are both ſo cloſely unit<g ref="char:EOLhyphen"/>ed, ſo tied together in knot more un<g ref="char:EOLhyphen"/>diſſ lvable than the Gordian, that they ſeem no longer two diſtinct per<g ref="char:EOLhyphen"/>ſons, but one and the ſame. This Ro<g ref="char:EOLhyphen"/>man
+<pb n="2" facs="tcp:61083:10"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:61083:11"/>Cerberus is ſo throughly died with the Morals of Satan, ſo cloſely followes his footſteps, and ſo officiouſ<g ref="char:EOLhyphen"/>ly Executes his Mandates, that we juſtly account him either genuine Son or elſe Vice-Gerent of the Devil. But leſt our Preface grow too long, leſt the ſoftneſs of Words with the neg<g ref="char:EOLhyphen"/>lect or loſs of ſubſtantial things, ſho'd be propoſed to our Reader, we will forthwith ſet about the thing itſelf. And whilſt in proper Colours we limn out the Pope <hi>(qua talis)</hi> un<g ref="char:EOLhyphen"/>der the formal Character of Pope, we ſhall briefly touch on thoſe Rea<g ref="char:EOLhyphen"/>ſons, which perſuade us to believe this <hi>Prometheus,</hi> this dunghil I dol of the Devil.</p>
+                  <p>Firſt then, if we look into the O<g ref="char:EOLhyphen"/>riginal of both, the Truth of that we propoſe will very clearly appear.</p>
+                  <p>When the Almighty hand of God laid the foundations of th' earth, the ſame hand as we may very well ſup<g ref="char:EOLhyphen"/>poſe, had created Angels the Morn<g ref="char:EOLhyphen"/>ing Stars, the Sons of God which
+<pb n="6" facs="tcp:61083:12"/>ſhouted for joy at ſight of the Crea<g ref="char:EOLhyphen"/>tion in its Craddle: An Argument of the goodneſs of them all, nor could a<g ref="char:EOLhyphen"/>ny evil be created by God, whatever the fooliſhneſs of the Jews ſuggeſt<g ref="char:EOLhyphen"/>eth, aſſigning the Reaſon why the approbation of the ſecond days work is omitted, <hi>Gen. 1.12.</hi> becauſe the Devils made, as they uſually affirm, on that day, it could not be ſaid, Be<g ref="char:EOLhyphen"/>hold all was good. Whereas of An<g ref="char:EOLhyphen"/>gels made good, ſome either ſwelling in the magnificence of their preſent condition, or aſpiring to greater ſtate declared a war againſt God, revolt<g ref="char:EOLhyphen"/>ed from him, and at length under the weight of their own ſin, fell into the Abyſs of a never to be repair'd mi<g ref="char:EOLhyphen"/>ſery, and thus degenerated into Devils.</p>
+                  <p>Alſo when God would by Chriſt create the new Heaven and the new Earth, he employed his A<g ref="char:EOLhyphen"/>poſtles as faithful and chief build<g ref="char:EOLhyphen"/>ers who ſhould wiſely lay the foun<g ref="char:EOLhyphen"/>dation of our Salvation, and preach
+<pb n="8" facs="tcp:61083:13"/>Jeſus Chriſt to us. And ſince theſe of neceſſity muſt at laſt die, it ſeem'd good to him to appoint <hi>Paſtors</hi> and <hi>Teachers</hi> to ſucceed them in the work of the Miniſtry, for perfecting of the Saints,
+<note place="margin">Eph. 4.</note> and for the Edifying of the Body of Chriſt. All theſe in Sacred Scripture are called <hi>An<g ref="char:EOLhyphen"/>gels.
+<note place="margin">Apoc. 1.</note> The ſeven Stars are the An<g ref="char:EOLhyphen"/>gels of the ſeven Churches,</hi> ſaith our Saviour. Such were the Primi<g ref="char:EOLhyphen"/>tive Biſhops of the <hi>Roman</hi> Church, (the Faith of which, the Apoſtle doth in an excellent character de<g ref="char:EOLhyphen"/>ſcribe, <hi>Rom 1.)</hi> Theſe Angels car<g ref="char:EOLhyphen"/>ried it humbly, the Zeal and Con<g ref="char:EOLhyphen"/>ſtancy of them was for the main, worthy of Commendation. Till in proceſs of time, ſwelling with pride (whatever were the occaſion) they were firſt in <hi>Boniface</hi> the III. chang<g ref="char:EOLhyphen"/>ed into profeſſed and open Devils, about the ſixth Age, as <hi>Lucifer</hi> before had (as is Credible) fallen on the Sixth day of the Cre<g ref="char:EOLhyphen"/>ation.</p>
+                  <pb n="10" facs="tcp:61083:14"/>
+                  <p>Ambition in the <hi>Roman</hi> Pre<g ref="char:EOLhyphen"/>lates had already ſpread itſelf, and albeit <hi>Gregorius</hi> I. conteſting with <hi>John</hi> of <hi>Conſtantinople,</hi> had ſome<g ref="char:EOLhyphen"/>what checkt the itch, yet at laſt it broke out like a flame, and if it did not turn the World into aſhes, it did like helliſh fire ſcorch and blaſt the World, the very next Suc<g ref="char:EOLhyphen"/>ceſſor of <hi>Gregory</hi> (who had brand<g ref="char:EOLhyphen"/>ed the Pride of <hi>John</hi> as an Imita<g ref="char:EOLhyphen"/>tion of <hi>Lucifer</hi>) turns Lucifer him<g ref="char:EOLhyphen"/>ſelf under the name of <hi>Bonifacius,</hi> (tho' <hi>Malifacius</hi> were a truer title for him) who without difficulty ob<g ref="char:EOLhyphen"/>tain'd the title of univerſal Biſhop by grant from <hi>Phocas</hi> (deſigning thereby to oblige the Romans to him<g ref="char:EOLhyphen"/>ſelf) when he had moſt wickedly murther'd the Emperor <hi>Mauritius</hi> and his Royal Children.</p>
+                  <p>Theſe were the beginnings of this <hi>Lucifer,</hi> this the way to the ambiti<g ref="char:EOLhyphen"/>ous aim, this the method of obtaining the High Prieſthood of <hi>Rome,</hi> that he might be like the Devil, he began
+<pb n="12" facs="tcp:61083:15"/>with the Devil, that he might re<g ref="char:EOLhyphen"/>ſemble him who was a Murtherer from the beginning, it was fit he ob<g ref="char:EOLhyphen"/>tain his inveſtiture from a Murther<g ref="char:EOLhyphen"/>er. By theſe or ſuch like means, the Ambition of this <hi>moſt holy Beaſt</hi> grew up, which is ſufficiently known to all that have but caſt an eye in<g ref="char:EOLhyphen"/>to the Records of Hiſtory. Is there any need I ſho'd mention <hi>Zacharias,</hi> whoſe pride as the pride of his ſuc<g ref="char:EOLhyphen"/>ceſſors was ſet up to the higheſt pitch by <hi>Pepin</hi> King of <hi>France?</hi> In kind requital whereof,
+<note place="margin">Calv. Inſt. 4. c. 7. Sect. 17.</note> 
+                     <hi>Zacharie</hi> depoſeth <hi>Childeric,</hi> and Devil-like abſolveth his Subjects from that Oath of Fealty they had ſworn to <hi>Childeric.</hi> What ſhall we ſay of <hi>Syl<g ref="char:EOLhyphen"/>veſter</hi> II. who (as old ſtories tell us) was advanced to the Pontifical dig<g ref="char:EOLhyphen"/>nity by the Devil himſelf.</p>
+                  <p>Thus I ſuppoſe it is clear to e<g ref="char:EOLhyphen"/>very one, that the Origine of this moſt holy Father, was the ſame with that of the Devil.</p>
+                  <p>Now leſt our Pope ſho'd but
+<pb n="14" facs="tcp:61083:16"/>ſeem to vary ever ſo little from the temper of his Predeceſſor, he hath made himſelf famous (much like the Devil.) by ſlaughter of men, and the utter ruine of many; in which cruelty he proceeds as in a thing that needs not be deliberated, like bloody Executioners made more fierce by taſte of humane blood, he retains the Savageneſs he contracted from the taſte of the blood of <hi>Mauritius</hi> It is obvious to every one, how mary Murthers, how many bloody Butche<g ref="char:EOLhyphen"/>ries havebeen committed by the Pope. Who is a ſtranger to the proceedings of <hi>Roderic Borgiu, [Alexander 6?]</hi> How many did he, by the help of <hi>Va<g ref="char:EOLhyphen"/>lentine</hi> a Duke but his baſtard Son, poyſon? How many did he procure to be murthered? The very duſt of the Cardinals, of St. <hi>Angelo</hi> of <hi>Ca<g ref="char:EOLhyphen"/>pa,</hi> of <hi>Modena,</hi> and of <hi>Urſine</hi> do ſtill cry out, the Tombs of other ve<g ref="char:EOLhyphen"/>ry rich men removed by poyſons, cry aloud, that he like an hungry Vultur was wont firſt to deſtroy
+<pb n="16" facs="tcp:61083:17"/>their life, and next ſeize all their goods; for all which cruelties at laſt he was juſtly puniſht in the Garden of the Cardinal <hi>Cornetenſii,</hi> for the Pope coming ſomewhat before Sup<g ref="char:EOLhyphen"/>per time, very thirſty by reaſon of the vehement heat, unwarily drinking lighted on the poyſon'd Cup, which his foreſaid Baſtard had prepared for the Cardinal; and next morn<g ref="char:EOLhyphen"/>ing the Pope breath'd out his impi<g ref="char:EOLhyphen"/>ous Soul. Did not <hi>Hildebrand</hi> (af<g ref="char:EOLhyphen"/>terwards <hi>Gregory</hi> the <hi>7th)</hi> that Firebrand from Hell, murther by poyſon ſix Popes, by this means ma<g ref="char:EOLhyphen"/>king way for himſelf to the Pope<g ref="char:EOLhyphen"/>dom? Did he not in his frantick fit often caſt his Breaden God into the fire, as if he wo'd have Sacrific'd to <hi>Vulcan?</hi> Of which crimes con<g ref="char:EOLhyphen"/>victed, and by the Council of <hi>Wormes</hi> depoſed, like exil'd Devil, he died at <hi>Brixia</hi> in <hi>Italy.</hi>
+                  </p>
+                  <p>What ſho'd I here mention <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> III. King of <hi>France,</hi> ſtab'd ac<g ref="char:EOLhyphen"/>cording to appointment of the Pope,
+<pb n="18" facs="tcp:61083:18"/>by <hi>James Clement</hi> of the D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>minican order Monk, whom th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pope our High Pontife did in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and ſolemn Speech praiſe for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Why need I repeat the <hi>Pariſian</hi> but cherly Slaughter? Or the Murthe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Prince <hi>Maurice?</hi> Or the cruelt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of <hi>Mary</hi> againſt her Proteſtant Sub<g ref="char:EOLhyphen"/>jects of <hi>England?</hi> Or the frequent expoſing the life of Queen <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> to the danger of death by Trea<g ref="char:EOLhyphen"/>cheries? Or the never to be forgotte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gun-powder Plot? Why ſho'd I a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> laſt mention more at large the moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mercileſs Inquiſition of <hi>Spain?</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> blood of many innocents, whoſe life hath been tyrannically and without Law taken away by the means and procurement of the Pope, doth yet trickle down within our own view. And what wonder if they do ſo ſlightly account of the life of others, who can murther one ano<g ref="char:EOLhyphen"/>ther, and as ſlightly think what be<g ref="char:EOLhyphen"/>comes of themſelves or others after death? I may ſcarce touch here on
+<pb n="20" facs="tcp:61083:19"/>
+                     <hi>Julius,</hi> his caſting the Keys into <hi>Ti<g ref="char:EOLhyphen"/>ber,</hi> and his taking up the Sword, his army marſhal'd againſt the <hi>French</hi> King, of which ſixteen Thouſand men in one battel wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> loſt in the ſight of Pope <hi>Julius.</hi> I will not more than glance at the Ar<g ref="char:EOLhyphen"/>mies of <hi>Urbane</hi> 6th. and <hi>Clement</hi> the Anti-Pope. It will be enough to have reckon'd up <hi>Boniface 7th.</hi> and <hi>Gregory 5th.</hi> one of which put out the eyes of <hi>John 18th.</hi> the other put out the eyes of <hi>John 15th.</hi> and ſtar<g ref="char:EOLhyphen"/>ved them by famine, or procur'd their death by violent courſe. Did not <hi>Stephan 6th</hi> procure, that the body of <hi>Formoſus</hi> ſho'd be dig'd out of his Grave, his two hallowed fin<g ref="char:EOLhyphen"/>gers cut off, he put into a Lay-man't habit, and in infamous manner be again buried? Did not <hi>Sergius</hi> com<g ref="char:EOLhyphen"/>mand that <hi>Formoſus</hi> defended by <hi>Romanus 1ſt.</hi> by <hi>Theodore 2d.</hi> and <hi>John</hi> the <hi>9th.</hi> and reſtored to the honour of having been worthy of E<g ref="char:EOLhyphen"/>piſcopal dignity ſho'd be beheaded,
+<pb n="22" facs="tcp:61083:20"/>and that his head ſho'd be caſt into <hi>Tiber?</hi> Eminent inſtances of infal<g ref="char:EOLhyphen"/>lible Holineſs? if you ſee not here the Effigies of the Devil, I know not where it can be ſeen.</p>
+                  <p>Yet we have not drawn the laſt lineament, the Devil is proud, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tho' he had nothing, promiſed all the Kingdoms of the World,
+<note place="margin">Mat. 4.</note> and this to our Saviour, if he would fall down and Worſhip. What think you of our Pope, who from Servant of Servants hath raiſed himſelf to be Lord of Lords, under whoſe feet, as one blaſ<g ref="char:EOLhyphen"/>phemouſly ſaith, is written King of Kings? It is known by experience, that he claims to himſelf a Power; and Right over Kings, Princes, Seep<g ref="char:EOLhyphen"/>ters and Crowns, in ſo much that with impunity in Deviliſh pride <hi>A<g ref="char:EOLhyphen"/>lexander</hi> III. trod on the neck of the Emperor <hi>Frederick Barbaroſſa</hi> and blaſphemouſly repeated theſe words,
+<note place="margin">Pſ. 91.13.</note> 
+                     <hi>Thou ſhalt tread upon the Lion and Adder,</hi> and claimed in theſe ill expounded words, an equal
+<pb n="24" facs="tcp:61083:21"/>ſhare with St. <hi>Peter,</hi> whilſt he derived the influence of them to himſelf by that Paſſage, <hi>&amp; Mihi &amp; Petro,</hi> to Me and Peter. Was it ought but Diabolical pride in that ſame Hellbrand, to make the Em<g ref="char:EOLhyphen"/>peror <hi>Henry 4th</hi> with his Wife and little Son, bare footed in the coldeſt froſts for three daies together, to wait before the Gate of the Pal<g ref="char:EOLhyphen"/>lace at <hi>Ganuſium</hi> e'er he would ad<g ref="char:EOLhyphen"/>mit him to a Conference? Moreo<g ref="char:EOLhyphen"/>ver whence thoſe Schiſms in the Church, but from the exceſſive de<g ref="char:EOLhyphen"/>fire the Popes of <hi>Rome</hi> had after a Primacy over the Univerſal Church? whence did the <hi>Tartars</hi> take advantage to make ſo much ſlaughter in <hi>Poland, Sileſia,</hi> and <hi>Hungary,</hi> but from the moſt fierce diſſentions rais'd by the Pope againſt the Emperor <hi>Frederick</hi> II. about Praeeminence? inſomuch that this proud Progeny of <hi>Lucifer</hi> grew to that height of Impudence as to aſ<g ref="char:EOLhyphen"/>ſert, (with <hi>Innocent</hi> III.) that the
+<pb n="26" facs="tcp:61083:22"/>Pope was like the Sun, the Empe<g ref="char:EOLhyphen"/>ror but as the Moon, and thence by a Mathematical Argument con<g ref="char:EOLhyphen"/>cludes the Papal throne <hi>47</hi> times greater than the Imperial, and that as Lead was of leſs value than Gold, ſo much was the Imperial dignity leſs than the Papal.</p>
+                  <p>This pretty well for a pretender, but he imitating his Exemplar, who blindeth the eyes of the Nations, aſ<g ref="char:EOLhyphen"/>ſumeth divine Honours to himſelf, and uſurpeth a God-like Authority, nay lifts up himſelf above God him<g ref="char:EOLhyphen"/>ſelf, as the tranſcendent power of Diſpenſing and Exempting, given to him by the Canoniſts, manifeſtly declare: So that the foreſaid Gen<g ref="char:EOLhyphen"/>tlemen, the Popes thought they need not bluſh, when they aſſert their Power to diſpenſe with the Law of God, and Nature, and Chriſt, and againſt the Precepts of both Old and New Teſtament, in which cauſe we want not examples of the former and preſent Age. This doth parti<g ref="char:EOLhyphen"/>cularly
+<pb n="28" facs="tcp:61083:23"/>appear in the Popes Diſpen<g ref="char:EOLhyphen"/>ſation to <hi>Henry 8th.</hi> of <hi>England,</hi> that he might marry his Brother's Relict, and at this day in the Prince of <hi>Portugal,</hi> with Papal Diſpenſation, marrying his Bro<g ref="char:EOLhyphen"/>ther's Wife, the Brother ſtill alive. By ſuch Rules 'tis, that he is prov<g ref="char:EOLhyphen"/>ed to be obliged by none, but is above all Law, or indeed lawleſs. As for his Power tranſcendent, this gives him an honor no leſs than that due to Angels,
+<note place="margin">Antonin. Sum. part 3.</note> by vertue hereof, the Papacy is the ſupreme created Pow<g ref="char:EOLhyphen"/>er, Angels and Arch-Angels are ſubjected to him, and are (if his flatterers ſpeak truth) the Fowls of Heaven, as men are the Sheep and Oxen,
+<note place="margin">Joh. de Pariis.</note> and as Souls in Purgatory are to be underſtood, when the Fiſhes of the Sea are ſaid to be put under Man's foot. But this is not high enough yet! He can make ſome<g ref="char:EOLhyphen"/>thing out of nothing, and make that juſt and equal, which was unjuſt and unequal. Take the Character of his Perſon:</p>
+                  <pb n="30" facs="tcp:61083:24"/>
+                  <q>
+                     <l>They are not pleas'd he be or God or man,</l>
+                     <l>Neuter to both, he is, above both what he can.</l>
+                  </q>
+                  <p>In plain proſe what will he prove to be? Not an Angel, for he rules the Angels, and the Pope gives them Law, not God, How great ſoever his barbarous pride be, and whatever his Flatterers whiſper in his Ear, he dares not declare that he is God; well then, neither God, this too much; nor Angel, this too little, but the Devil will fit it well, and for ſuch let him paſs, whilſt we farther ſpin out the thread of our Diſcourſe, and view whether there be not more of the like documents which confirm what we ſay.</p>
+                  <p>He is either Devil, or Progeny of the Devil, who doth his works or fulfils his deſires. <hi>Ye are</hi> (ſaith our Saviour) <hi>of your Father the Devil,
+<note place="margin">Joh. 8.</note> and the Will of your Father ye will do.</hi> Now what a long train of Popes, how many names of them
+<pb n="32" facs="tcp:61083:25"/>ſhall you read, who have continually and diligently done the works of the Devil, Men as culpable in faith as in Morals. How great a current of all Vices was there in <hi>John 13.</hi> who ordain'd Deacons in a ſtable, was inceſtuous, a Worſhipper of De<g ref="char:EOLhyphen"/>vils, a Raviſher of Virgins, who had at laſt a miſerable death by the hand of the Husband, whoſe Wife was Adultereſs to that Pope.</p>
+                  <p>As for <hi>Gregory 7.</hi> what Blaſ<g ref="char:EOLhyphen"/>phemies, what Perjuries, what Con<g ref="char:EOLhyphen"/>ſultings with Wizards, what ſtudy of the Black-Art are there reported of him? I will not here paint out <hi>John 23.</hi> nor <hi>Eugenius</hi> cenſured in the Councils of <hi>Conſtance</hi> and <hi>Ba<g ref="char:EOLhyphen"/>ſil;</hi> nor <hi>Silveſter 2.</hi> a Magician and a Necromancer. Time wo'd fail e'er I could rehearſe all their Vices, ſuch their Morals, their Faith was no better, nor co'd it be otherwiſe, than they ſho'd be delighted with the Doctrine of Devils, who were unit<g ref="char:EOLhyphen"/>ed cloſe to Devils in a knot that
+<pb n="34" facs="tcp:61083:26"/>cann't be untied. I will paſs by the ſeveral <hi>Honorus</hi>'s, <hi>Stephanus</hi>'s, <hi>A<g ref="char:EOLhyphen"/>naſtaſius</hi>'s, <hi>Caeleſtin</hi>'s and <hi>John</hi>'s, It will be ſufficient to inform my Reader, that in one Iron Age the Popes which ſucceeded each other to a greater number than <hi>50</hi> in the <hi>Roman</hi> See, were Apoſtatical, or Apotactical (diſorderly livers) ra<g ref="char:EOLhyphen"/>ther than Apoſtolical. May we ac<g ref="char:EOLhyphen"/>count theſe the Miniſtry of Chriſt? The Doctors of the Church? The Vicars of Chriſt? The Succeſſors of <hi>Peter?</hi> Men whoſe chief delight was in a diſſolute Life, and ſpread<g ref="char:EOLhyphen"/>ing of Haereſies? Theſe muſt be ac<g ref="char:EOLhyphen"/>counted Devils, or Succeſſors of an Apoſtle, as Darkneſs is Succeſſor of Light, or Sickneſs ſucceeds Health. Doctors of the Church by the ſame Rule that <hi>Scipio</hi> was ſurnam'd <hi>A<g ref="char:EOLhyphen"/>fricanus,</hi> becauſe he had waſted and enſlaved <hi>Africa.</hi>
+                  </p>
+                  <p>Let us go a little further in our Parallel, we ſhall find one more qua<g ref="char:EOLhyphen"/>lity, (omitting others) That the De<g ref="char:EOLhyphen"/>vil
+<pb n="36" facs="tcp:61083:27"/>and our Pope agree in. Satan is crafty and contriver of endleſs cheats: The guileful Serpent which under the Pretence of Friendſhip, decoy'd our firſt Parents into ſin, that when he had made them like himſelf in ſin, he might utterly ruine them by miſery: In this an eaſie view will ſhew you the Pope the Fox like <hi>He<g ref="char:EOLhyphen"/>rod,</hi> and an unwearied imiter of the Devil, who doth lay traps for Souls with this bait,
+<note place="margin">Mat. 4.</note> 
+                     <hi>All theſe will I give to thee.</hi> The Pope deſtroyes Souls, and by his Indulgences, that well known Merchandiſe of <hi>Rome,</hi> moſt craftily dreineth all the Countreys of <hi>Europe.</hi> Read over th' Annals of all Ages, you will find every where that under the cloak of Religion, and under a counterfeited Vicariate from Chriſt, the Pope hath ruled all, and lorded it over the Imperial and Royal Purple, much as of old the Pagan <hi>Rome</hi>'s Emperours, by force of Arms, tyranniſed over the World. <hi>Mantuan</hi> witneſſeth this,
+<pb n="38" facs="tcp:61083:28"/>
+                     <q>
+                        <l>What, <hi>Rome</hi> head of the World, by Arms ne'r gain'd,</l>
+                        <l>That ſhe by ill fram'd pious frauds obtain'd.</l>
+                     </q> whilſt ſhe demurely acts the Sobri<g ref="char:EOLhyphen"/>ety of the Curii, ſhe debauchedly lives in the Riots of the Bacchanals and is as much a ſtranger to Religion as ſhe pretends acquaintance with it. All which that ſhe may do cheap<g ref="char:EOLhyphen"/>er than at Expence of her Reputa<g ref="char:EOLhyphen"/>tion and Honour, ſhe doth craftily endeavour by fit diſtinctions, like mince meat, to prepare that the Chriſtian World may ſwallow it without chewing. So that when the Pope errs, It is in a controverſie of what was done, not what was right, and in the character of a private Chriſtian, not in the great figure of Pope of <hi>Rome,</hi> and when he was unluckily out of his Chair, not when he was gravely ſeated in it. Theſe are ſome of the fineneſſes of the De<g ref="char:EOLhyphen"/>vil; New paint by which the ugly face of old Sathan is ſomewhat
+<pb n="40" facs="tcp:61083:29"/>ſmooth'd, and his falling Kingdom patch'd up a little more plauſibly. Devil-like and with the ſame Arti<g ref="char:EOLhyphen"/>fice he divides Kingdoms, and en<g ref="char:EOLhyphen"/>gageth them in Wars againſt each other, he raiſeth jealouſies between King and Subjects, ſets them to pull one another down, that their ruines may build and adorn his Pallaces, there is no neceſſity I ſho'd appeal to other Kingdoms ſhaken by the trou<g ref="char:EOLhyphen"/>bles he raiſed, tho' <hi>France</hi> were ſi<g ref="char:EOLhyphen"/>lent, and <hi>Germany</hi> and <hi>Venice</hi> held their Peace as dumb; <hi>England</hi> alone might come forth and ſpeak to this point. <hi>England</hi> a moſt happy Kingdom, which all admire, and court her Friendſhip, for which all do moſt carneſty (as for the Golden Apple) contend. A Kingdom now the hope of <hi>Spain;</hi> a terror and check to <hi>France;</hi> ſupport of <hi>Netherlands,</hi> in how great Perplexity and Confu<g ref="char:EOLhyphen"/>ſion do's it See itſelf, by the deviliſh Stratagems of the Pope? I'le ſay nothing of the burning of <hi>London,</hi>
+                     <pb n="42" facs="tcp:61083:30"/>of the civil Wars rais'd among them by the Pope. The preſent Plot alone is an unſhaken argument, to demon<g ref="char:EOLhyphen"/>ſtrate what I have ſaid; from the leaſt to the greateſt, all ſtand won<g ref="char:EOLhyphen"/>dring to ſee the meaſures of an uni<g ref="char:EOLhyphen"/>verſal ruine of King and Kingdom, laid out by the crooked, but long meaſuring Pole of Papal crafts, when they ſee ſo many Plots, ſo ma<g ref="char:EOLhyphen"/>ny Devices multiplying like <hi>Hydra</hi>'s heads, on the Diſcovery and Diſap<g ref="char:EOLhyphen"/>pointment of former; well there may be ſome fear within and ſome without, whilſt dangers hang over our heads, and threaten as if they were unavoidable. And now <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is become a weeping <hi>Democri<g ref="char:EOLhyphen"/>tus.</hi> So much the more for that ſhe ſees all the Conſpirators cajolled by the craft of the Pope, like conſtant Companions with ſeeming chearful<g ref="char:EOLhyphen"/>neſs endure Death, the Gallows, and all without a penitent Diſcove<g ref="char:EOLhyphen"/>ry of their guilt: <hi>Staley</hi> dieth, <hi>Cole<g ref="char:EOLhyphen"/>man</hi> is executed, the <hi>Jeſuits</hi> hang'd,
+<pb n="44" facs="tcp:61083:31"/>the Murtherers of <hi>Godfrey</hi> are ſo puniſht, and <hi>Stafford</hi> brings up the rear, all lead in blind obedience to the Pope, through his Diabolical ſubtlety.
+<q>
+                        <l>Swear, and forſwear, though to the Pit of Hell,</l>
+                        <l>The ſecrets of the Popiſh Plot ne'er tell.</l>
+                     </q> 
+                     <g ref="char:V">Ʋ</g>nhappy world thus to be bewitch'd! unhappy Kings thus to ſubmit them<g ref="char:EOLhyphen"/>ſelves to the Command of the Pope! who never leaves them in reſt, till ti<g ref="char:EOLhyphen"/>red out, they lay themſelves down at the feet of this three headed <hi>Cerberus,</hi> who at his leiſure devours them. How much wo'd it be for the good of the Chriſtian World, wo'd the Cardinals do now (what is as moſt earneſtly de<g ref="char:EOLhyphen"/>ſir'd in that Tripple Schiſm headed by three Popes at once) by an unanimous Vote, reſolve after Death of the next Pope, no other ſho'd ever be choſen more. Then our PAPA, interpreted by that word which is begun with each letter of his name, <hi>P. Poculum</hi> the Cup. A. <hi>Aureum</hi> Golden. P. <hi>Plenum</hi> Full. A. <hi>Abominationum</hi> of Abominations. (the Character of <hi>Babylon</hi> in the Re<g ref="char:EOLhyphen"/>velation) ſo taken away, Kings and Princes would no wore drink of the in<g ref="char:EOLhyphen"/>toxicating Wine of her Spiritual For<g ref="char:EOLhyphen"/>nications.</p>
+                  <p>This our Buffoons, the Purple flat<g ref="char:EOLhyphen"/>terers
+<pb n="46" facs="tcp:61083:32"/>of the Babyloniſh Strumpet might eaſily do. Without difficulty might theſe Fools in the play, remove that Idol which firſt they make and then adore, and finally propoſe to be adored by others; Then would the Vi<g ref="char:EOLhyphen"/>car of the Devil ceaſe, when his ſtrength were thus broken and ſcattered.</p>
+                  <p>Oh for ſome <hi>Diogenes</hi> wiſer than the reſt, with Candle and Lanthorn to ſeek a Pope in the apartments of the Vatican, or thro' the corners of the Chriſtian World, and yet not find him; Then,, and not till then, will Chriſt, as he hath right, reign alone in his Church: And the Monarchs of this World deriving their authority immediately from Chriſt, would take care, that in the Church thoſe things might be eſtabliſh'd, which conduce to the publick Peace in a moſt ſweet harmony. This proud Satan, that blends Hell and Heaven, ſho'd be bound nor ever looſed till eternally deſtroy'd by the Breath of the mouth of Chriſt.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="lat">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:61083:3" rendition="simple:additions"/>
+                  <p>SYMBIOSIS PAPAE &amp; DIABOLI, UT ET Cardinalis ET MORIONIS. CUM Adnexa utriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Effigie, &amp; brevi ejus Explica<g ref="char:EOLhyphen"/>tione.</p>
+                  <p>Opera &amp; Studio <hi>JACOBI SALGADO</hi> Hiſpani Converſi Presbyteri.</p>
+                  <p>
+                     <hi>LONDINI</hi> Typis <hi>T. Snowden,</hi> MDCLXXXI.</p>
+               </div>
+               <div type="papal_caricature">
+                  <pb facs="tcp:61083:1"/>
+                  <pb facs="tcp:61083:2"/>
+                  <pb facs="tcp:61083:2"/>
+                  <p>
+                     <figure>
+                        <figDesc>mock seal</figDesc>
+                        <head>TENET FACIEM DIABOLI EC<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>LESIA PERVERSA</head>
+                        <lg>
+                           <l>
+                              <hi>Papa, Sathan, fratres nodo ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>guntur ab arcto.</hi>
+                           </l>
+                           <l>
+                              <hi>Cur<g ref="char:punc">▪</g> Quoniam mundi fert<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>r uter<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> Deus.</hi>
+                           </l>
+                           <l>
+                              <hi>Os ori junctum eſt; quia, q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> dilabitur orbis</hi>
+                           </l>
+                           <l>
+                              <hi>Communi voto, ſufflat uter<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> ſibi.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>mock seal</figDesc>
+                        <head>SAPIENTES STULTI ALIQUANDO</head>
+                        <lg>
+                           <l>
+                              <hi>Morio <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>athoni Babylonis jungitur ast cur?</hi>
+                           </l>
+                           <l>
+                              <hi>Orbem nam ſcenam frater uter<expan>
+                                    <am>
+                                       <g ref="char:abque"/>
+                                    </am>
+                                    <ex>que</ex>
+                                 </expan> facit.</hi>
+                           </l>
+                           <l>
+                              <hi>Vix ſpectator erit, ſtulto modò tolle theatrum;</hi>
+                           </l>
+                           <l>
+                              <hi>Nec Romae, dempto Cardine, Praeſul erit.</hi>
+                           </l>
+                        </lg>
+                     </figure>
+                  </p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:61083:4"/>
+                  <head>Illuſtriſſimo AC Celſiſſimo PRINCIPI RUPERTO, CUMBERLANDIAE Duci, <hi>&amp;c. Res non minùs fortiter quam feliciter agere.</hi>
+                  </head>
+                  <p>AButor auctoritate &amp; bene<g ref="char:EOLhyphen"/>volentià Tuâ, Princeps celſiſſime, quod lineolis hiſce no<g ref="char:EOLhyphen"/>men Tuum, ſuper aethera notum, praefixum cupio. Quod ſi libellus, tum mole grandior, tum curâ &amp; arte limatior, prodiiſſet, excuſa<g ref="char:EOLhyphen"/>tius me acturum fuiſſe non pror<g ref="char:EOLhyphen"/>ſus diffido. Aſt vel ipſum com<g ref="char:EOLhyphen"/>pendioſum iſtud ſeculum me ab<g ref="char:EOLhyphen"/>ſolvet, &amp; in exilium miſsa pro<g ref="char:EOLhyphen"/>lixitate
+<pb facs="tcp:61083:5"/>hunc nuci incluſum <hi>Ho<g ref="char:EOLhyphen"/>merum</hi> anteferet. Nauſeant quip<g ref="char:EOLhyphen"/>pe delicatiores Stomachi ſuper talibus eſcis, quae toties maſti<g ref="char:EOLhyphen"/>catae à ſolius juſculi abundantiâ commendantur. Et, ſi brevi<g ref="char:EOLhyphen"/>tas delectet, compactum iſtud, ſuisque membris &amp; arteriis coa<g ref="char:EOLhyphen"/>gulatum quaſi corpuſculum, Tuo non deſtituetur Patrocinio.</p>
+                  <p>Papam hic, veram illam A<g ref="char:EOLhyphen"/>pocalypticam beſtiam propriis &amp; genuinis reddidi coloribus, &amp; pro ejus meritò; cum jurato hu<g ref="char:EOLhyphen"/>mani generis hoſte, omnis con<g ref="char:EOLhyphen"/>fuſionis &amp; ataxias Parente Dia<g ref="char:EOLhyphen"/>bolo, contuli. Rationes ſagax Tuum &amp; perſpicax judicium acu
+<pb facs="tcp:61083:6"/>mentis in proceſſu tanget, &amp; ni<g ref="char:EOLhyphen"/>ſi evictum dederim (ſummatim licet) deſcriptionem <hi>Effigiei</hi> re<g ref="char:EOLhyphen"/>ſpondere, nae aut ego fine exci<g ref="char:EOLhyphen"/>di, aut omnis hiſtoriae veritas exolevit.</p>
+                  <p>Sed cur ego de Tuo, mag<g ref="char:EOLhyphen"/>nanime Princeps, aſſenſu dubi<g ref="char:EOLhyphen"/>tarem, qui propriis periculis, Parentis cladibus &amp; quotidianâ rerum experientiâ de veritate pro<g ref="char:EOLhyphen"/>poſitionis meae jam olim edoctus fuiſti.</p>
+                  <p>Patrocinium ſolummodo Tu<g ref="char:EOLhyphen"/>um ſupplex expeto, &amp; humili obſervantiâ obteſtor, ut pro mo<g ref="char:EOLhyphen"/>re
+<pb facs="tcp:61083:7"/>Tuo id eſt, benignè ac be<g ref="char:EOLhyphen"/>nevolè lineolas haſce excipias, auctoremque earum eâ proſequa<g ref="char:EOLhyphen"/>ris Clementiâ, quae &amp; depraedi<g ref="char:EOLhyphen"/>catae Tuae generoſitati &amp; meae conditioni reſpondeat.</p>
+                  <p>Hoc ſi à Celſitudine Tuâ im<g ref="char:EOLhyphen"/>petratum fuerit, habebo unde &amp; mihi aeternum gratuler &amp; Tu<g ref="char:EOLhyphen"/>um me in poſterum mancipium, profitear.</p>
+                  <p>Vive Illuſtriſſime Princeps diu fauſtus, ubique felix, Tibi, Ec<g ref="char:EOLhyphen"/>cleſiae, Reipublicae, &amp; habe Gratiae Tuae quam commenda<g ref="char:EOLhyphen"/>tiſſimum</p>
+                  <closer>
+                     <signed>
+                        <hi>JACOBUM SALGADO,</hi> Hiſpan. Presbyt. Converſum.</signed>
+                  </closer>
+                  <pb facs="tcp:61083:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div type="book">
+                  <pb n="3" facs="tcp:61083:9"/>
+                  <head>SYMBIOSIS, <hi>&amp;c.</hi> Sive Vera &amp; genuina Papae Delineatio, <hi>&amp;c.</hi>
+                  </head>
+                  <p>QUiſqui<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, Lector Candi<g ref="char:EOLhyphen"/>diſſime, ſepoſitis graviori<g ref="char:EOLhyphen"/>bus negotiis, mecum hic Papam in Diabolo, Diabolum in Papa intuere. Tam arcto hi' Arcades ambo copulantur nexu, tam in<g ref="char:EOLhyphen"/>diſſolubili concatenantur Gordio, ut jam non diviſi ab invicem, ſed unum idemque eſſe ſuppoſitum videantur. Tam feliciter Ro<g ref="char:EOLhyphen"/>manus
+<pb n="3" facs="tcp:61083:10"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:61083:11"/>Cerberus Sathanae mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bus imbutus eſt, tam ſtricte ejus premit veſtigia, tam denique officioſe mandata exequitur, ut vel progenies Diaboli, vel ejus Vice-Regens venire mereatur. Ne verò in longum protrahatur Oratio, meraque verborum leno<g ref="char:EOLhyphen"/>cinia, rerum pondere vel neg<g ref="char:EOLhyphen"/>lecto vel praetermiſſo, Lectori proponantur, rem ipſam ag<g ref="char:EOLhyphen"/>grediemur, Papamque <hi>qua ta<g ref="char:EOLhyphen"/>lem,</hi> genuinis delineaturi colo<g ref="char:EOLhyphen"/>ribus, ſtrictim eas attingemus rationes, ob quas nobis, hic <hi>Stercorariae Sedis</hi> Prometheus, Diabolo ipſi comparandus vide<g ref="char:EOLhyphen"/>atur.</p>
+                  <p>Inprimis ſi utriuſque Origi<g ref="char:EOLhyphen"/>nem introſpexerimus, Propoſiti<g ref="char:EOLhyphen"/>onis noſtrae aequitas clariùs elu<g ref="char:EOLhyphen"/>ceſcet.</p>
+                  <p>Dum ipſa terrae fundamenta omnipotens Dei manus pone<g ref="char:EOLhyphen"/>ret, etiam Angelos creaſſe cen<g ref="char:EOLhyphen"/>ſenda eſt, quos matutina aſtra
+<pb n="7" facs="tcp:61083:12"/>&amp; jubilantes Dei filios in ipſis Creationis incunabulis Creator pronunciat.
+<note place="margin">
+                        <hi>Job.</hi> 38.</note> Omnes tum erant boni;
+<note place="margin">
+                        <hi>Gen.</hi> 1.</note> neque enim quicquam mali Deus creaverat, quicquid Judaeo<g ref="char:EOLhyphen"/>rum ſentiat Stultitia, quae ratio<g ref="char:EOLhyphen"/>nem praetermiſſi ſecundae diei epitheti, <hi>verſ.</hi> 12. quod eſſet bona, in Diabolorum (quos tunc factos ſuſpicatur) crea<g ref="char:EOLhyphen"/>tionem conſuevit refundere.</p>
+                  <p>Quidam autem horum ſic creatorum Angelorum, vel con<g ref="char:EOLhyphen"/>ditionis ſuae magnificentiâ elati, vel ad altiora aſpirantes, bel<g ref="char:EOLhyphen"/>lum indixere Deo, &amp;, latâ ſuâ culpâ, ab eo deficientes, tan<g ref="char:EOLhyphen"/>dem in miſeriarum &amp; irrepa<g ref="char:EOLhyphen"/>rabilis infelicitatis abyſſum prae<g ref="char:EOLhyphen"/>cipitati, Diaboli evaſere.</p>
+                  <p>Cum etiam Deus in Chriſto novum coelum &amp; novam ter<g ref="char:EOLhyphen"/>ram crearet,
+<note place="margin">
+                        <hi>Eſ.</hi> 65.</note> Apoſtolos ſuos tanquam fideles Architectos ad<g ref="char:EOLhyphen"/>hibuit,
+<note place="margin">1 <hi>Cor.</hi> 3.</note> qui fundamentum ſalu<g ref="char:EOLhyphen"/>tis noſtrae <hi>Jeſum Chriſtum</hi> ſapi<g ref="char:EOLhyphen"/>enter
+<pb n="9" facs="tcp:61083:13"/>ponerent. Quia vero illi tandem ſupremum erant obituri diem, ſucceſſores eis, <hi>Paſtores</hi> &amp; <hi>Doctores,</hi> idque ad opus mini<g ref="char:EOLhyphen"/>ſterii,
+<note place="margin">
+                        <hi>Eph.</hi> 4.</note> ad Conſummationem ſanctorum, ad Aedificationem corporis Chriſti aſſignare digna<g ref="char:EOLhyphen"/>tus eſt.</p>
+                  <p>Omnes tales in ſacrâ paginâ Angeli dicuntur;
+<note place="margin">
+                        <hi>Apoc.</hi> 1.</note> 
+                     <hi>Septem ſtellae Angeli ſunt ſeptem Eccleſiarum,</hi> inquit Salvator. Quibus quin primitivi Romanae Eccleſiae An<g ref="char:EOLhyphen"/>tiſtites (quorum fidem encomi<g ref="char:EOLhyphen"/>aſticè deſcribit Apoſtolus) ac<g ref="char:EOLhyphen"/>cenſendi ſint, nulli dubitamus.
+<note place="margin">
+                        <hi>Rom.</hi> 1.</note> Submiſsè hi Angeli ſe gerebant, laudabilis maximam partem fuit eorum zelus &amp; conſtantia, do<g ref="char:EOLhyphen"/>nec tandem, turgentes. Super<g ref="char:EOLhyphen"/>biâ (quaecunque ejus fuerit oc<g ref="char:EOLhyphen"/>caſio) poſt ſextum ſeculum <hi>(ve<g ref="char:EOLhyphen"/>lut ſexto die cecidiſſe Luciferum credibile eſt)</hi> in <hi>Bonifacio</hi> III. in profeſſos &amp; apertos <hi>Diabolos</hi> fuere commutati.</p>
+                  <pb n="11" facs="tcp:61083:14"/>
+                  <p>Serpebat jam olim in Roma<g ref="char:EOLhyphen"/>nis Praeſulibus ambitio, &amp; licet eam quodammodo <hi>Gregorius</hi> I.
+<note place="margin">
+                        <hi>Fox. p.</hi> 13.</note> contra <hi>Johannem Conſtantinopo<g ref="char:EOLhyphen"/>litanum</hi> decertans ſufflaminârit, tandem tamen in flammam eru<g ref="char:EOLhyphen"/>pit, &amp; Univerſum ſi non combuſ<g ref="char:EOLhyphen"/>ſit, ſaltem inſtar <hi>Ignis Inferna<g ref="char:EOLhyphen"/>lis</hi> aduſſit orbem. Proximus Succeſſor Gregorii <hi>(qui Johan<g ref="char:EOLhyphen"/>nem in elucidatione ſuâ Luciferum imitari aiebat)</hi> Lucifer evaſit. Quippe dictus <hi>Bonifacius,</hi> ſed Malefacius dicendus, Univerſa<g ref="char:EOLhyphen"/>lis Epiſcop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> titulum à <hi>Phoca</hi> Par<g ref="char:EOLhyphen"/>ricida, Imperatoris <hi>Mauritii</hi> &amp; ſtirpis regiae peſſimo ſicario (qui eâ ratione Romanorum animos voluit devincere) facilè impe<g ref="char:EOLhyphen"/>travit.</p>
+                  <p>Haec erant hujus Luciferi ini<g ref="char:EOLhyphen"/>tia, haec ad Ambitionem via, haec obtinendi ſummi Pontifi<g ref="char:EOLhyphen"/>catûs Methodus. Ut Diabolo ſimilis fieret, à Diabolo incho<g ref="char:EOLhyphen"/>are
+<pb n="13" facs="tcp:61083:15"/>debuit: ut <hi>eum,</hi> qui eſt <hi>Homicida</hi> ab initio, referret,
+<note place="margin">
+                        <hi>Joh.</hi> 8.</note> à Parricida inveſtituram obtinere merebatur. Talibus vel ſimili<g ref="char:EOLhyphen"/>bus mediis ſua, <hi>ſacerrimae hujus Beſtiae</hi> Ambitio capiebat in<g ref="char:EOLhyphen"/>crementa. Notum ſatis iſtud eſt eis, qui hiſtoriarum adyta vel à limine ſalutarunt. Et quid hîc <hi>Zachariam</hi> commemorem, cujus inſolentia, aeque ac ſuc<g ref="char:EOLhyphen"/>ceſſorum ejus, per Pipinum Gal<g ref="char:EOLhyphen"/>liae Regem in arce collocata fu<g ref="char:EOLhyphen"/>it?
+<note place="margin">
+                        <hi>Calv. Inſt.</hi> 4. <hi>c.</hi> 7. <hi>Sect.</hi> 17.</note> In cujus rei redhoſtimen<g ref="char:EOLhyphen"/>tum <hi>Zacharias Childericum</hi> depo<g ref="char:EOLhyphen"/>nit, ejusque ſubditos à juramen<g ref="char:EOLhyphen"/>to fidelitatis Regi praeſtito, di<g ref="char:EOLhyphen"/>abolicè abſolvit. Quid <hi>Syl<g ref="char:EOLhyphen"/>veſtrum</hi> II. quem ab ipſo Diabo<g ref="char:EOLhyphen"/>lo ad Pontificatûs dignitatem e<g ref="char:EOLhyphen"/>vectum, antiquis monumentis proditum legimus.</p>
+                  <p>Originem ergo ſanctiſſimi hujus Patris eandem, quam Diaboli, fu<g ref="char:EOLhyphen"/>iſſe nulli non patere exiſtimo.</p>
+                  <p>Ne vero <hi>Papa</hi> noſter ab <hi>Anteceſ<g ref="char:EOLhyphen"/>ſoris</hi>
+                     <pb n="15" facs="tcp:61083:16"/>ſui naturâ vel latum un<g ref="char:EOLhyphen"/>guem diſcedere videretur, non minùs ac <hi>Diabolus</hi> homicidiis, va<g ref="char:EOLhyphen"/>riorum internecionibus clarus ef<g ref="char:EOLhyphen"/>fectus eſt, quaſi nihil de cru<g ref="char:EOLhyphen"/>delitate deliberaturus, quam ex hauſto <hi>Mauritii</hi> cruore contra<g ref="char:EOLhyphen"/>xerat, veluti ſolent Carnifices ex poto humano ſanguine fero<g ref="char:EOLhyphen"/>ciores evadere. Quot enim ab illis homicidia commiſſa, quot lanienae effectae, nemini non ob<g ref="char:EOLhyphen"/>vium eſt.</p>
+                  <p>Cui ignoti ſunt <hi>Roderici Bor<g ref="char:EOLhyphen"/>giae,</hi> poſtea <hi>Alexandri</hi> VI. pro<g ref="char:EOLhyphen"/>ceſsûs? Quot ipſe, opitulante <hi>Valentino</hi> Duce, filio ſuo notho, veneno enecavit? Quot vitâ pri<g ref="char:EOLhyphen"/>vare curavit?
+<note place="margin">Joh. de Serres.</note> Clamant adhuc Cardinalium de S. Angelo, de Capa, de Modena, &amp; de Ur<g ref="char:EOLhyphen"/>ſino, cineres vociferantur alio<g ref="char:EOLhyphen"/>rum ditiſſimorum veneno è vi<g ref="char:EOLhyphen"/>vis ſublatorum buſta, quorum omnia bona, tanquam inſati<g ref="char:EOLhyphen"/>bilis Vultur, poſt exitum eo<g ref="char:EOLhyphen"/>rum
+<pb n="17" facs="tcp:61083:17"/>ad ſe rapere conſueverat. Licet tandem juſtas crudelitatis ſuae, in horto <hi>Cardinalis Cor<g ref="char:EOLhyphen"/>netenſis,</hi> poenas dederit. In<g ref="char:EOLhyphen"/>toxicatô enim, quod ſupra<g ref="char:EOLhyphen"/>dictus ſpurius pro Cardinali pa<g ref="char:EOLhyphen"/>raverat, vino Papa ante tem<g ref="char:EOLhyphen"/>pus coenae accedens, nimio calore exſiccatus, impruden<g ref="char:EOLhyphen"/>ter hauſto, proximo mane im<g ref="char:EOLhyphen"/>piam animam efflavit.</p>
+                  <p>Annon Hildebrandus (dein<g ref="char:EOLhyphen"/>ceps Gregorius VII.) <hi>inferna<g ref="char:EOLhyphen"/>lis</hi> ille <hi>titio,</hi> ſex Papas veneno enecavit, ut eâ ratione ſibi viam ad Papatum ſterneret? Annon impanatum ſuum De<g ref="char:EOLhyphen"/>um, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abie correptus, Vulca<g ref="char:EOLhyphen"/>no ſaepiùs conſecravit? Quo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um criminum convictus, &amp; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n Wormatienſi Concilio con<g ref="char:EOLhyphen"/>demnatus, tandem Brixiae in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>taliâ depoſitus,
+<note place="margin">
+                        <g ref="char:V">Ʋ</g>rſperyen.</note> exul <hi>Diabolus</hi> expiravit.</p>
+                  <p>Quid hîc ego Henricum III. Galliae Regem, per Papae ſubor<g ref="char:EOLhyphen"/>nationem,
+<pb n="19" facs="tcp:61083:18"/>à <hi>Jacobo Clemen<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e,</hi> Dominicani Ordinis Mo<g ref="char:EOLhyphen"/>nacho, (quem &amp; panegyri ſummus noſter Pontifex dig<g ref="char:EOLhyphen"/>natus eſt) pugione tranſverbe<g ref="char:EOLhyphen"/>ratum; quid lanienam Pari<g ref="char:EOLhyphen"/>ſienſem aut Hibernicam; quid <hi>Mauritii</hi> mortem; quid <hi>Mariae</hi> in Anglos Proteſtantes cru<g ref="char:EOLhyphen"/>delitatem; aut Sereniſſimae Eli<g ref="char:EOLhyphen"/>zabethae Reginae vitam, toties fatorum periculo expoſitam; vel nunquam obliterandam <hi>pul<g ref="char:EOLhyphen"/>verariam Conſpirationem;</hi> quid tandem crudeliſſimam Hiſpani<g ref="char:EOLhyphen"/>cam Inquiſitionem, fuſiùs com<g ref="char:EOLhyphen"/>memorem? Stillat adhuc mul<g ref="char:EOLhyphen"/>torum ſanguis innocentium, quo<g ref="char:EOLhyphen"/>rum vitae, curante &amp; promo<g ref="char:EOLhyphen"/>vente <hi>Papa,</hi> tyrannicè &amp; ille<g ref="char:EOLhyphen"/>gitimè ereptae fuere. Et quid<g ref="char:EOLhyphen"/>ni ipſi aliorum vitas floccipen<g ref="char:EOLhyphen"/>derent, cum violentas manus ſi<g ref="char:EOLhyphen"/>bimet invicem, non ſolum in vita, ſed poſt fata etiam injicere non dubitent. Non hîc Julii clavi<g ref="char:EOLhyphen"/>um
+<pb n="21" facs="tcp:61083:19"/>in Tiberim projectionem &amp; aſſumptionem Gladii, non in<g ref="char:EOLhyphen"/>ſtructam contra Galliarum Re<g ref="char:EOLhyphen"/>gem aciem, ex quâ ipſe prae<g ref="char:EOLhyphen"/>ſens ſedecim millia hominum in Praelio amiſit: neque Urba<g ref="char:EOLhyphen"/>ni VI. &amp; Antipapae Clemen<g ref="char:EOLhyphen"/>tis exercitus attingam. Satis erit Bonifacium VII. &amp; Gre<g ref="char:EOLhyphen"/>gorium V. enumeraſſe, quo<g ref="char:EOLhyphen"/>rum alter Johanni XVIII.
+<note place="margin">
+                        <hi>Fox. p.</hi> 160.</note> al<g ref="char:EOLhyphen"/>ter Johanni XV. oculos erue<g ref="char:EOLhyphen"/>re, &amp; vel fame enecare vel vi<g ref="char:EOLhyphen"/>olenter vitam eripere curâ<g ref="char:EOLhyphen"/>runt.</p>
+                  <p>Nonne Stephanus VI. reſoſſo <hi>Formoſi</hi> Corpore, &amp; duobus con<g ref="char:EOLhyphen"/>ſecratis digitis praeciſis,
+<note place="margin">Platina.</note> laici veſte indutum, infamem in modum iterum tumulari curavit? Non<g ref="char:EOLhyphen"/>ne <hi>Sergius</hi> eundem Formoſum à Rhomano primo,
+<note place="margin">Stella.</note> Theodo<g ref="char:EOLhyphen"/>ro ſecundo, Johanne nono defenſum &amp; Epiſcopali dig<g ref="char:EOLhyphen"/>nitati reſtitutum, capite trun<g ref="char:EOLhyphen"/>cari juſſit &amp; tandem caput
+<pb n="23" facs="tcp:61083:20"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Tiberim proiici? Pulchra in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llibilis ſanctitatis exempla! ni<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hîc Effigiem Diaboli videas, eſcio ubi conſpicies.</p>
+                  <p>Sed necdum lineamentorum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is. Superbus Diabolus eſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ui vel Salvatori noſtro, ipſe ni<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il habens,
+<note place="margin">
+                        <hi>Matth.</hi> 4.</note> omnia mundi regna <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onare pollicebatur, ſi modò ca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens adoraret eum. Quid vero de <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>apa noſtro exiſtimas? Ex ſervo ervorum Dei evaſit in Dominum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ominantium, in cujus calcaneo, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t blaſphemè quidam ait, ſcriptum <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt: REX REGUM. Experien<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>â compertum eſt, quod in Reges, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Principes, in Sceptra &amp; Diade<g ref="char:EOLhyphen"/>nata, jus &amp; poteſtatem ſibi vindi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et, in tantum, ut Alexandro III. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icuerit ſupra collum Friderici Bar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aroſſae diabolico faſtu impunè <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aclare,
+<note place="margin">Joh. de ſer<g ref="char:EOLhyphen"/>res.</note> cum blaſphemâ horum verborum repetitione: <hi>Super Aſ<g ref="char:EOLhyphen"/>pidem &amp; Baſiliſcum ambulabis.</hi> Et aequè verborum horum, licet peſſime expoſitorum, energiam
+<pb n="25" facs="tcp:61083:21"/>ad ſe ac ad Petrum extende<g ref="char:EOLhyphen"/>re, per illud ſuum: <hi>Et mihi &amp; Petro.</hi> Quid ſuperiùs no<g ref="char:EOLhyphen"/>minatus <hi>Hellebrandus</hi> praeter<g ref="char:EOLhyphen"/>quam Diabolicam inſolentiam commiſit, quando Imperato<g ref="char:EOLhyphen"/>rem Henricum IV.
+<note place="margin">
+                        <hi>Jewel. De<g ref="char:EOLhyphen"/>fenſ. Apol. p.</hi> 168.</note> unà cum Uxore &amp; Infantulo nudis Pedi<g ref="char:EOLhyphen"/>bus, in maxima frigoris impa<g ref="char:EOLhyphen"/>tientia, per triduum ad Oſtium Palatii ſui <hi>Canuſiis</hi> ſtare fecit, priuſquam eum ad ſuum Col<g ref="char:EOLhyphen"/>loquium admitteret? Unde il<g ref="char:EOLhyphen"/>la in Eccleſia Schiſmata,
+<note place="margin">Niceph. Greg. lib. 5.</note> prae<g ref="char:EOLhyphen"/>terquam ex Romanorum Ponti<g ref="char:EOLhyphen"/>ficum nimio primatûs in uni<g ref="char:EOLhyphen"/>verſam Chriſti Eccleſiam deſideri<g ref="char:EOLhyphen"/>o? Unde tot in Poloniâ, Sileſia,
+<note place="margin">
+                        <hi>Vid. Mor<g ref="char:EOLhyphen"/>nae. Hiſt. Pap. p.</hi> 845.</note> Ungaria à Scythis editae ſtra<g ref="char:EOLhyphen"/>ges, praeterquam ex atrociſſi<g ref="char:EOLhyphen"/>mis Romani Pontificis cum Im<g ref="char:EOLhyphen"/>peratore Friderico II.
+<note place="margin">
+                        <hi>Aventin. lib.</hi> 6. <hi>An<g ref="char:EOLhyphen"/>nal. Bojor.</hi>
+                     </note> ob prae<g ref="char:EOLhyphen"/>eminentiam diſſidiis? Quid, quod haec progenies Diaboli eò proceſſit impudentiae, ut ſe (cum Innocentio III.) Soli,
+<pb n="27" facs="tcp:61083:22"/>Imperatorem Lunae aſſimilare non erubuerit: imò adjecit,
+<note place="margin">
+                        <hi>Innocent.</hi> 3. <hi>in de<g ref="char:EOLhyphen"/>oretal.</hi>
+                     </note> Papalem dignitatem ſepties &amp; quadragies Imperatoriâ majo<g ref="char:EOLhyphen"/>rem eſſe, hanc verò infra Pa<g ref="char:EOLhyphen"/>palem praeeminentiam adinſtar Plumbi,
+<note place="margin">
+                        <hi>Gelaſ. di<g ref="char:EOLhyphen"/>ſtinct.</hi> 96.</note> infra Auri decus &amp; pre<g ref="char:EOLhyphen"/>tium ſubſidere.</p>
+                  <p>Levius id eſſet, niſi ad exem<g ref="char:EOLhyphen"/>plum Diaboli oculos Ethnicorum excaecantis, non ſolùm divinos ſibi Honores &amp; Authoritatem arrogaret, verum etiam Deo ſe ipſi anteferret. Manifeſtò id evincunt attributa ei à Cano<g ref="char:EOLhyphen"/>niſtis <hi>diſpenſativa, exemptiva,</hi> &amp; <hi>tranſcendentalis</hi> Poteſtas. Jux<g ref="char:EOLhyphen"/>ta <hi>priorem,</hi> Papam, contra Jus Divinum &amp; Naturae, con<g ref="char:EOLhyphen"/>tra Novum Teſtamentum, imò de omnibus Veteris &amp; Novi Teſtamenti praeceptis diſpenſa<g ref="char:EOLhyphen"/>re poſſe,
+<note place="margin">
+                        <hi>Jewel De<g ref="char:EOLhyphen"/>fenſ. Apol. p.</hi> 59. <hi>Fox p.</hi> 785.</note> aſſerere non eru<g ref="char:EOLhyphen"/>beſcunt. Neque deſtituimur hâc in materia, anterioris &amp; prae<g ref="char:EOLhyphen"/>ſentis ſeculi exemplis. Quemad<g ref="char:EOLhyphen"/>modum
+<pb n="29" facs="tcp:61083:23"/>iſtud in Henrico VIII. Britanniarum Monarcha Fra<g ref="char:EOLhyphen"/>triam ſuam ex diſpenſatione Papae in Uxorem ducente, &amp; modò regnante Luſitaniae Principe liquidò apparet. Jux<g ref="char:EOLhyphen"/>ta <hi>aliam,</hi> nullâ Lege tene<g ref="char:EOLhyphen"/>tur, ſed eſt merus Exlex.</p>
+                  <p>Quantum ad <hi>tertiam,</hi> quam tranſ<g ref="char:EOLhyphen"/>cendentalem dicimus, non mi<g ref="char:EOLhyphen"/>nor honor Papae debetur,
+<note place="margin">
+                        <hi>Anton. in Sum. part.</hi> 3.</note> quam Angelis. Juxta eam Papatus eſt ſumma Virtus cre<g ref="char:EOLhyphen"/>ata: Angeli &amp; Archangeli ſunt ei ſubjecti, quos <hi>vola<g ref="char:EOLhyphen"/>tilibus Coeli</hi> Gnathones ejus comparant, ut omittam Oves &amp; Boves (per quos homines) &amp; Piſces Maris,
+<note place="margin">Johan. de Pariis.</note> per quos ani<g ref="char:EOLhyphen"/>mae in Purgatorio intelligun<g ref="char:EOLhyphen"/>tur. Altius aſſurgunt: <hi>Ex ni<g ref="char:EOLhyphen"/>hilo poteſt facere aliquid,
+<note place="margin">
+                           <hi>Nicol. diſt.</hi> 96.</note> ae<g ref="char:EOLhyphen"/>quum ex iniquo;</hi> &amp; ſi ip<g ref="char:EOLhyphen"/>ſam perſonae qualitatem reſpi<g ref="char:EOLhyphen"/>cias.</p>
+                  <pb n="31" facs="tcp:61083:24"/>
+                  <q>Nec Deus eſt, nec homo, quaſi neuter inter utrumque.
+<note place="margin">Extravag. Bonifac.</note>
+                  </q>
+                  <p>Quis ergo tandem erit? Cum Angelus eſſe nequeat, utpote fraenum ſuae poteſtatis illis inji<g ref="char:EOLhyphen"/>ciens, <hi>Papa Angelis praecipit,</hi>
+                     <note place="margin">Agrippa.</note> neceſſum eſt, ut ſit Diabolus, quia ne ipſa quidem, quanta<g ref="char:EOLhyphen"/>cunque ſit, ut Deus dicatur (quicquid garriant adulatores) non ſinet barbaries.</p>
+                  <p>Ulteriùs rationum noſtrarum filum protendamus &amp; videa<g ref="char:EOLhyphen"/>mus, utrum plura non ſint, quae noſtram Propoſitionem ad<g ref="char:EOLhyphen"/>ſtruant, documenta.</p>
+                  <p>Diabolus ille, vel Progenies Diaboli eſſe debet, qui facit opera Diaboli, &amp; ejus explet deſideria.
+<note place="margin">
+                        <hi>Joh.</hi> 8.</note> Vos (inquit Salva<g ref="char:EOLhyphen"/>tor) ex Patre Diabolo eſtis, &amp; deſideria Patris veſtri vultis facere. At quantum Paparum ſyrma, quot oneroſa ipſorum
+<pb n="33" facs="tcp:61083:25"/>nomina legeris, qui opera Diaboli aſſiduò &amp; ſedulò perpetrarunt. Mores aeque ac fides in multis culpabiles. Quanta in Johanne XIII. in omnia vitia proclivi<g ref="char:EOLhyphen"/>tas, Diaconorum in ſtabulis or<g ref="char:EOLhyphen"/>dinatio, inceſtus, Diaboli invo<g ref="char:EOLhyphen"/>catlo, violatio Virginum, Adul<g ref="char:EOLhyphen"/>teria, &amp; tandem miſer per ma<g ref="char:EOLhyphen"/>num Mariti Adulterae ex hac vita exitus.</p>
+                  <p>Quae de Gregorio VII.
+<note place="margin">
+                        <hi>Fox p.</hi> 159.</note> Blaſ<g ref="char:EOLhyphen"/>phemiae, quae Perjuria, qualis auguriorum ſectatio, quàm ini<g ref="char:EOLhyphen"/>quum Necromantiae ſtudium, re<g ref="char:EOLhyphen"/>citantur? Non hic Johannem XXIII. non Eugenium, Conſtan<g ref="char:EOLhyphen"/>tienſi &amp; Baſileenſi Conciliis caſti<g ref="char:EOLhyphen"/>gatos, non Sylveſtrum II. Magum &amp; Necromantam depingam. Dies me deſiceret, ſi per omnia eorum vitia divagari deberem.</p>
+                  <p>Sed nec fides moribus melior. Nec enim aliter fieri poteſt, quàm ut illi, quos indiſſolubilis cum Dae<g ref="char:EOLhyphen"/>mone copulavit nodus, doctrinis
+<pb n="35" facs="tcp:61083:26"/>Daemoniorum delectentur. O<g ref="char:EOLhyphen"/>mittam hîc Honorios, Stepha<g ref="char:EOLhyphen"/>nos, Anaſtaſios, Caeleſtinos, Jo<g ref="char:EOLhyphen"/>hannes; ſufficiet, quod <hi>ferreo illo ſeculo plures quam quinqua<g ref="char:EOLhyphen"/>ginta Pontifices, Apoſtatici po<g ref="char:EOLhyphen"/>tiùs aut Apotactici quàm A<g ref="char:EOLhyphen"/>poſtolici dicendi,</hi>
+                     <note place="margin">Genebrar<g ref="char:EOLhyphen"/>dus.</note> in ſede Roma<g ref="char:EOLhyphen"/>na ſibi mutuo ſucceſſerint. Hoſ<g ref="char:EOLhyphen"/>ne ergò Miniſtros Chriſti, hos Eccleſiae Doctores? Hoſne Vi<g ref="char:EOLhyphen"/>carios Dei &amp; Petri ſucceſſores di<g ref="char:EOLhyphen"/>ceres? Quorum unica in vitae diſſolutae ratione &amp; in proſemi<g ref="char:EOLhyphen"/>nandis haereſibus erat delecta<g ref="char:EOLhyphen"/>tio? Vel Diabolos dicas neceſſe eſt, vel eo modo ſucceſſores Apoſtoli, quo tenebrae luci, morbus ſanitati dicuntur ſuc<g ref="char:EOLhyphen"/>cedere: Eô modô Doctores Eccleſiae, quô Scipio dicebatur Africanus, eò quod Africam va<g ref="char:EOLhyphen"/>ſtaſſet &amp; ſubvertiſſet.</p>
+                  <p>Sed ulteriùs pedem promove<g ref="char:EOLhyphen"/>amus, &amp; unam adhuc Diaboli (ut caeteras omittam) qualitatem in
+<pb n="37" facs="tcp:61083:27"/>Papa noſtro reperiri exhibeamus. Aſtutus eſt Sathan, &amp; mille frau<g ref="char:EOLhyphen"/>dum Artifex: Callidus Serpens, qui ſub amicitiae praetextu Pa<g ref="char:EOLhyphen"/>rentes noſtros ad Peccandum pel<g ref="char:EOLhyphen"/>lexit, ut poſtquam eos ſibi ſimiles reddidiſſet, etiam penitùs ſubjice<g ref="char:EOLhyphen"/>ret. Converte autem oculorum aci<g ref="char:EOLhyphen"/>em in Papam, protinus conſpicies, vulpem eſſe hunc Herodem &amp; Di<g ref="char:EOLhyphen"/>aboli imitatorem indefeſſum. Ani<g ref="char:EOLhyphen"/>mam Diabolus per <hi>Tibi dabo</hi> vena<g ref="char:EOLhyphen"/>tur. <hi>Hic</hi> verò &amp; animas perdit,
+<note place="margin">
+                        <hi>Mat.</hi> 4.</note> &amp; per ſuas indulgentias notamque illam Babylonicae meretricis mer<g ref="char:EOLhyphen"/>caturam ingentem pecuniae vim, omnibus Europae Regionibus cal<g ref="char:EOLhyphen"/>lidiſſimè emungit. Evolve omni<g ref="char:EOLhyphen"/>um temporum Annales, ubique re<g ref="char:EOLhyphen"/>peries, Rêligionis obtentu &amp; vica<g ref="char:EOLhyphen"/>riatûs Chriſti praetextu, <hi>Papam</hi> omnia rexiſſe, &amp; pro lubitu ſuo purpuratis imperaſſe capitibus, non ſecus ac olim Romani Imperatores univerſum orbem, armorum ſuo<g ref="char:EOLhyphen"/>rum potentiâ, in officio continue<g ref="char:EOLhyphen"/>runt.</p>
+                  <pb n="39" facs="tcp:61083:28"/>
+                  <q>
+                     <l>Orbis Roma caput, quicquid non continet armis,</l>
+                     <l>Relligione tenet.—</l>
+                  </q>
+                  <p>Attamen curios ſimulando Bacchanalia vivit, &amp; dum Re<g ref="char:EOLhyphen"/>ligionem obtendit, quàm ma<g ref="char:EOLhyphen"/>xime ab ea reperitur alienus. Ne vero quicquam exiſtima<g ref="char:EOLhyphen"/>tioni ejus &amp; honori decedat, fraudulenter admodum palpum, variis ad. hoc negotium con<g ref="char:EOLhyphen"/>fictis diſtinctionibus, Chriſtia<g ref="char:EOLhyphen"/>no orbi conatur obtrudere. Dum errat, errat in quaeſtione fa<g ref="char:EOLhyphen"/>cti non juris, quà privatus Chriſtianus, non quà Romanus Pontifex, extra Cathedram, non in Cathedra conſtitutus. Nonne haec ſunt figmenta Di<g ref="char:EOLhyphen"/>aboli, nonne nova inventa, per quae deformis ſatis Sathanae facies aliquantulum interpola<g ref="char:EOLhyphen"/>tur,
+<pb n="41" facs="tcp:61083:29"/>&amp; ruens ejus Regnum ful<g ref="char:EOLhyphen"/>citur plauſibiliùs? Subſervit Di<g ref="char:EOLhyphen"/>abolicae huic illius aſtutiae, quod ſemper Regna cum Regnis, Re<g ref="char:EOLhyphen"/>gem cum ſubditis committat, ut eâ ratione in aliorum ruinis ſua edificet Palatia. Non hîc opus eſt ad aliorum Regnorum turbas per eum concitatas excur<g ref="char:EOLhyphen"/>rere. Sileat Gallia, taceat Ger<g ref="char:EOLhyphen"/>mania, Venetiae obmuteſcant, ſo<g ref="char:EOLhyphen"/>la Anglia prodeat in medium &amp; loquatur.</p>
+                  <p>Anglia, Regnum feliciſſimum, quod omnes mirantur, cujus om<g ref="char:EOLhyphen"/>nes amicitiam ambiunt, &amp; quaſi de aureo Pomo contendunt acer<g ref="char:EOLhyphen"/>rime. Regnum, quod eſt ſpes Hiſpaniae, terror &amp; ſtupor Gal<g ref="char:EOLhyphen"/>liae, Belgii fulcimentum, in quan<g ref="char:EOLhyphen"/>ta quaeſo per Diabolica Papae Stratagemata nunc ſemetipſam perplexitate, in quanta confuſi<g ref="char:EOLhyphen"/>one conſpicit! Nil dicam de Lon<g ref="char:EOLhyphen"/>dinenſis Urbis conflagratione,
+<pb n="43" facs="tcp:61083:30"/>nil de mutuis cladibus Papae o<g ref="char:EOLhyphen"/>pera procreatis. <hi>Moderna</hi> ſola <hi>Conſpiratio</hi> inconcuſſum eſt ſta<g ref="char:EOLhyphen"/>biliendae noſtrae propoſitionis ar<g ref="char:EOLhyphen"/>gumentum. A minimo ad ma<g ref="char:EOLhyphen"/>ximum omnes ſtant attoniti, quando Regis &amp; Regni univer<g ref="char:EOLhyphen"/>ſalem ruinam quaſi jam in Pa<g ref="char:EOLhyphen"/>palis aſtutiae ſtatera appenſam ſuſpicantur. Quando tot vident machinationes, tot nova ſtrata<g ref="char:EOLhyphen"/>gemata, quae quaſi Tirynthianae hydrae capita in locum priorum praeciſorum cum foenore renaſ<g ref="char:EOLhyphen"/>cuntur. Metus eos intus &amp; fo<g ref="char:EOLhyphen"/>ris oppreſſit, pericula hinc inde quaſi certò imminentia formi<g ref="char:EOLhyphen"/>dantur. Flens eſt Anglia Demo<g ref="char:EOLhyphen"/>critus. Et quidem eò magis, quod videat omnes conjurationis <hi>Achates</hi> calliditate Papae cir<g ref="char:EOLhyphen"/>cumventos, Mortem, Crucem, &amp; omnia ſponte ſubire, nullo criminis &amp; reatûs ſui propalato indicio. Moritur <hi>Staley,</hi> perit <hi>Colemannus,</hi> intereunt <hi>Jeſuitae,</hi>
+                     <pb n="45" facs="tcp:61083:31"/>plectuntur Godefredi ſicarii, ag<g ref="char:EOLhyphen"/>men tandem impraeſentiarum clau<g ref="char:EOLhyphen"/>dit Staffordius, caecâ erga di<g ref="char:EOLhyphen"/>abolicas Papae aſtutias ducti obe<g ref="char:EOLhyphen"/>dientiâ.
+<q>Jura, Perjura, ſecretum prodere noli.</q> Infelix mundus, quem talis faſcina<g ref="char:EOLhyphen"/>vit ſocius! Infelices Reges, qui e<g ref="char:EOLhyphen"/>jus ſeſe ſubmittunt Imperio, nun<g ref="char:EOLhyphen"/>quam magis inquieti, quam dum in iniquiſſimo tricipitis hujus Cer<g ref="char:EOLhyphen"/>beri finu laſſatum caput geſtiunt recondere. Quam expediens uni<g ref="char:EOLhyphen"/>verſo Chriſtianorum orbi foret, ſi (quod in triplici illo Antipaparum ſchiſmate ardentibus votis expe<g ref="char:EOLhyphen"/>tebatur) Cardinales communibus fuffragiis in id conſpirarent,
+<note place="margin">Gerſon.</note> ne unquam amplius poſt fata unius, alter Pontifex eligeretur. Tunc <hi>PAPA</hi> noſter, literis in voces re<g ref="char:EOLhyphen"/>ſolutis <hi>Poculum Aureum Plenum Abominatioum,</hi> è medio ſubla<g ref="char:EOLhyphen"/>tus, nuuquam ulteriùs Reges &amp; Principes fornicationum ſpiri<g ref="char:EOLhyphen"/>tualium vino inebriare perge<g ref="char:EOLhyphen"/>ret.</p>
+                  <p>Atque facilè <hi>Mimus</hi> noſter,
+<note place="margin">Cardinalis.</note> pur<g ref="char:EOLhyphen"/>puratus
+<pb n="47" facs="tcp:61083:32"/>Babylonicae Meritricis gna<g ref="char:EOLhyphen"/>tho id poſſet efficere; facilê qui nunc <hi>Morionis</hi> inſtar <hi>ſcenam</hi> ex mun<g ref="char:EOLhyphen"/>do facit, adorando eum, quem ip<g ref="char:EOLhyphen"/>ſe creavit, &amp; aliis adorandum ini<g ref="char:EOLhyphen"/>que propinando, omnes has diffi<g ref="char:EOLhyphen"/>cultates amovere. Ceſſaret Pa<g ref="char:EOLhyphen"/>pa Vicarius eſſe Diaboli, qui tali deſtitutus inſtrumento vires ſuas ſi non ad ultimum frangeret, certè tamen quam maxime diſſiparet.</p>
+                  <p>Et utinam <hi>Diogenes</hi> iſte tandem reſipiſceret, utinam accensâ Ve<g ref="char:EOLhyphen"/>ritatis taedâ in foro Vaticano, imo in ipſo foro orbis, quaereret Papam nec tamen inveniret. Tunc tempo<g ref="char:EOLhyphen"/>ris ſolus in Eccleſiâ, veluti debet, regnaret Chriſtus, &amp; ſeculares Monarchae, jus ſuum ab eo imme<g ref="char:EOLhyphen"/>diate arceſſentes, curarent ea in Eccleſiâ, quae communi paci, re<g ref="char:EOLhyphen"/>rumque quam ſuaviſſimo ordini, harmonicè inſervirent. Ligaretur hic ſuperbus &amp; ubique ſumma im<g ref="char:EOLhyphen"/>miſcens Sathanas, nec ante diſſol<g ref="char:EOLhyphen"/>veretur, quam, ſpiritu oris Chri<g ref="char:EOLhyphen"/>ſti deletus, aeternum concideret.
+<note place="margin">2 <hi>Theſ.</hi> 2.</note>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
